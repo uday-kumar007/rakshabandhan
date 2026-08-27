@@ -1,5 +1,5 @@
 // ===== SET YOUR SECRET WORD HERE =====
-const SECRET_KEY = "teju akka"; // change this to any one word you like
+const SECRET_KEY = "Gunavathi akka"; // change this to any one word you like
 
 function checkKey() {
   const input = document.getElementById('keyInput').value.trim().toLowerCase();
